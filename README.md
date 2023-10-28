@@ -1,4 +1,4 @@
-# Azahar
+# Azahar (Shopping Car)
 Azahar is the name of a project for an online coffee shop. All of its sales are done virtually, user registrations are managed, and employees work remotely, among other aspects. This project is undertaken as an exercise to learn the fundamentals of SQL.
 
 ## Things to consider:
